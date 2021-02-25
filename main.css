@@ -5,18 +5,30 @@ HW05 -- Stuylin'
 2020-02-10
 					*/
 h1 {
-    color: red;margin-left: 400;
+    color: red;
+	margin-left: 400;
 }
 
+ul {
+	list-style-type: square
+}
 
 h2 {
-    color: blue;margin-bottom:-20
+    color: blue;
+	margin-bottom:-20
 }
 
 body {
-    background-color: sandybrown
+    background-color: sandybrown;
 }
 
 p {
-	font-size: 18;font-family: serif;font-variant: small-caps;opacity:0.8
+	font-size: 18;
+	font-family: serif;
+	font-variant: small-caps;
+	opacity:0.8
+}
+
+img {
+	border: 10px solid blue
 }
